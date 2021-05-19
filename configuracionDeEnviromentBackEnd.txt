@@ -1,0 +1,19 @@
+PAra iniciar servicios rest paso a paso :
+
+1) descargar maven    https://maven.apache.org/download.cgi
+ -descomprimir el archivo .zip y depositarlo en el path :C:\Program Files\apache-maven-3.8.1
+ -crear la variable de entorno M2_HOME y agregarla al path
+tutorial para crear variable M2_HOME :   https://medium.com/@eduardo.au/instalando-maven-af271cc7b04d
+
+para corroborar que nos quedo bien configurado el maven ejecutar en un cmd el siguiente comando "mvn -version"
+
+2) descargar JDK       https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+configurar variable de entorno JAVA_HOME y agregarla al path 
+
+3) descargar codigo fuente del API REST 
+
+
+
+proxy de desarrrollo 
+https://medium.com/javascript-comunidad/configurar-proxy-en-angular-cli-25f07237d13e
+
